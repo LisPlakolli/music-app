@@ -3,7 +3,6 @@ package musicapp.controller;
 import musicapp.entity.Album;
 import musicapp.service.AlbumService;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 
 @RestController

@@ -1,4 +1,5 @@
 package musicapp.entity;
+
 import jakarta.persistence.*;
 
 @Entity

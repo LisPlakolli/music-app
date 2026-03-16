@@ -3,7 +3,6 @@ package musicapp.service;
 import musicapp.entity.Album;
 import musicapp.repository.AlbumRepository;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 
 @Service
