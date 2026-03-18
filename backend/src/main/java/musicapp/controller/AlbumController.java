@@ -40,4 +40,9 @@ public class AlbumController {
     public void deleteAlbum(@PathVariable Long id) {
         albumService.deleteAlbum(id);
     }
+
+    @GetMapping("/featured")
+    public List<Album> getFeaturedAlbums() {
+        return albumService.getFeaturedAlbums();
+    }
 }

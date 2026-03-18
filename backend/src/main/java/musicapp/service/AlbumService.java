@@ -26,14 +26,19 @@ public class AlbumService {
         return albumRepository.save(album);
     }
 
+    public List<Album> getFeaturedAlbums() {
+        return albumRepository.findByFeaturedTrue();
+    }
+
     public Album updateAlbum(Long id, Album updatedAlbum) {
         Album existingAlbum = albumRepository.findById(id).orElse(null);
         if (existingAlbum != null) {
             existingAlbum.setTitle(updatedAlbum.getTitle());
             existingAlbum.setArtist(updatedAlbum.getArtist());
             existingAlbum.setGenre(updatedAlbum.getGenre());
-            existingAlbum.setYear(updatedAlbum.getYear());
-            existingAlbum.setUrl(updatedAlbum.getUrl());
+            existingAlbum.setReleaseYear(updatedAlbum.getReleaseYear());
+            existingAlbum.setCoverUrl(updatedAlbum.getCoverUrl());
+            existingAlbum.setFeatured(updatedAlbum.getFeatured());
 
             return albumRepository.save(existingAlbum);
         }

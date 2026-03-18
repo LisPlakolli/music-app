@@ -1,0 +1,16 @@
+<h1>Welcome to MusicApp</h1>
+
+<h2>Featured Albums</h2>
+
+<div class="album-grid">
+  <div *ngFor="let album of featuredAlbums" class="album-card">
+    <img [src]="album.coverUrl" [alt]="album.title" class="album-image" />
+    <h3>{{ album.title }}</h3>
+    <p><strong>Artist:</strong> {{ album.artist }}</p>
+    <p><strong>Genre:</strong> {{ album.genre }}</p>
+    <p><strong>Year:</strong> {{ album.releaseYear }}</p>
+  </div>
+</div>
+
+<h2>Music News</h2>
+<p>New album releases coming soon...</p>

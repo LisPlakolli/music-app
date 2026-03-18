@@ -1,0 +1,11 @@
+<h1 class="page-title">Album Collection</h1>
+
+<div class="album-grid">
+  <div *ngFor="let album of albums" class="album-card">
+    <img [src]="album.coverUrl" [alt]="album.title" class="album-image" />
+    <h2>{{ album.title }}</h2>
+    <p><strong>Artist:</strong> {{ album.artist }}</p>
+    <p><strong>Genre:</strong> {{ album.genre }}</p>
+    <p><strong>Year:</strong> {{ album.releaseYear }}</p>
+  </div>
+</div>

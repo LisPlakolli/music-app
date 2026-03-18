@@ -12,20 +12,26 @@ public class Album {
     private String title;
     private String artist;
     private String genre;
-    private Integer release_year;
-    private String cover_url;
+    private Boolean featured;
+
+    @Column(name = "release_year")
+    private Integer releaseYear;
+
+    @Column(name = "cover_url")
+    private String coverUrl;
 
     //Constructors
     public Album(){
     }
 
-    public Album(Long id, String title, String artist, String genre, Integer release_year, String cover_url){
+    public Album(Long id, String title, String artist, String genre, Integer releaseYear, String coverUrl, Boolean featured){
         this.id = id;
         this.title = title;
         this.artist = artist;
         this.genre = genre;
-        this.release_year = release_year;
-        this.cover_url = cover_url;
+        this.releaseYear = releaseYear;
+        this.coverUrl = coverUrl;
+        this.featured = featured;
     }
 
     //Getters
@@ -41,11 +47,14 @@ public class Album {
     public String getGenre() {
         return genre;
     }
-    public Integer getYear() {
-        return release_year;
+    public Integer getReleaseYear() {
+        return releaseYear;
     }
-    public String getUrl() {
-        return cover_url;
+    public String getCoverUrl() {
+        return coverUrl;
+    }
+    public Boolean getFeatured() {
+        return featured;
     }
 
     //Setters
@@ -61,10 +70,13 @@ public class Album {
     public void setGenre(String genre) {
         this.genre = genre;
     }
-    public void setYear(Integer release_year) {
-        this.release_year = release_year;
+    public void setReleaseYear(Integer releaseYear) {
+        this.releaseYear = releaseYear;
     }
-    public void setUrl(String cover_url) {
-        this.cover_url = cover_url;
+    public void setCoverUrl(String coverUrl) {
+        this.coverUrl = coverUrl;
+    }
+    public void setFeatured(Boolean featured) {
+        this.featured = featured;
     }
 }
