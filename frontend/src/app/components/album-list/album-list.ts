@@ -42,15 +42,13 @@ export class AlbumListComponent implements OnInit {
   }
 
   nextSlide(): void {
-    if (this.currentSlide < this.slides.length - 1) {
-      this.currentSlide++;
-    }
+    if (this.slides.length === 0) return;
+    this.currentSlide = (this.currentSlide + 1) % this.slides.length;
   }
 
   prevSlide(): void {
-    if (this.currentSlide > 0) {
-      this.currentSlide--;
-    }
+    if (this.slides.length === 0) return;
+    this.currentSlide = (this.currentSlide - 1 + this.slides.length) % this.slides.length;
   }
 
   goToSlide(index: number): void {

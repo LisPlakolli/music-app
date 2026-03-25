@@ -1,0 +1,571 @@
+2026.03.25 10:00:18 INFO  Started: Metals version 1.6.6 in folders '/Users/lisplakolli/Mthree/musicapp' for client Visual Studio Code 1.107.1.
+2026.03.25 10:00:18 INFO  Memory monitor started
+2026.03.25 10:00:19 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.25 10:00:20 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Album.java. Using fallback presentation compiler.
+2026.03.25 10:00:21 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Album.java. Using fallback presentation compiler.
+2026.03.25 10:00:25 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:25 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java
+2026.03.25 10:00:25 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Album.java. Using fallback presentation compiler.
+2026.03.25 10:00:25 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 10:00:40 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2026.03.25 10:00:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 10:00:40 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2026.03.25 10:00:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:42 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:42 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:52 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:52 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:52 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:52 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:54 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:54 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:56 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:56 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:56 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:56 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:56 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:57 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 10:00:58 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+2026.03.25 10:00:57 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:58 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:57 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:57 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:58 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:57 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:00:59 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:01 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:01 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:01 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:02 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:02 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:02 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:02 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:03 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:02 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:08 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:08 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:08 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:09 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:09 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:09 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:09 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:10 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:09 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:13 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:13 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:15 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:15 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:16 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:16 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:18 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:18 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:20 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:20 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:20 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:20 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:20 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:20 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:20 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:21 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:21 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:22 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:22 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:24 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:24 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:24 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:24 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:25 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:25 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:25 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:25 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:25 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:25 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:27 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:27 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:29 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:30 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:30 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:31 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:31 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:31 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:34 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:34 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:37 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:37 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:37 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:41 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:45 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java
+2026.03.25 10:01:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:01:46 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java
+2026.03.25 10:01:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:02:23 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:23 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:23 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:23 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java
+2026.03.25 10:02:23 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:23 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:31 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:31 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:02:34 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java
+2026.03.25 10:02:34 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:03:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:39 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java
+2026.03.25 10:03:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+2026.03.25 10:03:41 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+Mar. 25, 2026 10:03:41 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 358
+2026.03.25 10:03:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+2026.03.25 10:03:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+Mar. 25, 2026 10:03:42 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 365
+2026.03.25 10:03:42 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+2026.03.25 10:03:42 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:43 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java
+2026.03.25 10:03:42 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:43 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:44 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:44 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:46 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java
+2026.03.25 10:03:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:03:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+2026.03.25 10:03:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 10:03:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:04:16 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+2026.03.25 10:04:16 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+2026.03.25 10:04:16 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+Mar. 25, 2026 10:04:16 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 400
+2026.03.25 10:04:16 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+2026.03.25 10:04:25 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+2026.03.25 10:04:42 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+2026.03.25 10:04:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:04:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:04:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:04:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:04:49 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java
+2026.03.25 10:04:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:04:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:18 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:18 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:18 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:18 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:18 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:19 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:19 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java
+2026.03.25 10:05:19 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:19 INFO  Created report: Optional[file:///Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java]
+2026.03.25 10:05:19 INFO  empty definition using pc, found symbol in pc: _empty_/CrossOrigin#origins# (full report at: "/Users/lisplakolli/Mthree/musicapp/.metals/.reports/metals-full/2026-03-25/r_empty-definition_10-05-19-811.md")
+2026.03.25 10:05:21 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 10:05:24 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 10:06:59 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 10:06:59 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+2026.03.25 10:07:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 11:01:37 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/MusicApp.java. Using fallback presentation compiler.
+2026.03.25 11:01:38 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/MusicApp.java. Using fallback presentation compiler.
+2026.03.25 11:01:37 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/MusicApp.java. Using fallback presentation compiler.
+2026.03.25 11:01:47 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/MusicApp.java. Using fallback presentation compiler.
+2026.03.25 11:01:47 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/UserService.java. Using fallback presentation compiler.
+2026.03.25 11:01:47 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/UserService.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:01:47 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 446
+2026.03.25 11:01:47 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/UserService.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:01:47 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 450
+Mar. 25, 2026 11:01:47 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 447
+Mar. 25, 2026 11:01:47 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 448
+2026.03.25 11:01:47 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/UserService.java. Using fallback presentation compiler.
+2026.03.25 11:01:47 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+2026.03.25 11:01:47 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+2026.03.25 11:01:47 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+2026.03.25 11:01:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+2026.03.25 11:01:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/ReviewService.java. Using fallback presentation compiler.
+2026.03.25 11:01:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 11:01:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 11:01:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 11:01:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 11:01:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 11:01:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/AlbumService.java. Using fallback presentation compiler.
+2026.03.25 11:01:52 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/AlbumService.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:01:52 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 472
+2026.03.25 11:01:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/AlbumService.java. Using fallback presentation compiler.
+2026.03.25 11:01:58 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/AlbumService.java. Using fallback presentation compiler.
+2026.03.25 11:01:58 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/AlbumService.java. Using fallback presentation compiler.
+2026.03.25 11:02:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/AlbumService.java. Using fallback presentation compiler.
+2026.03.25 11:05:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/AlbumService.java. Using fallback presentation compiler.
+2026.03.25 11:05:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 11:05:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:05:40 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 497
+2026.03.25 11:05:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 11:05:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 11:05:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/service/NewsService.java. Using fallback presentation compiler.
+2026.03.25 11:05:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/AlbumRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/AlbumRepository.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:05:50 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 506
+2026.03.25 11:05:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/AlbumRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/AlbumRepository.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:05:51 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 514
+2026.03.25 11:05:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/AlbumRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/NewsRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/ReviewRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/ReviewRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/ReviewRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/ReviewRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/UserRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:52 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/UserRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/UserRepository.java. Using fallback presentation compiler.
+2026.03.25 11:05:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/UserRepository.java. Using fallback presentation compiler.
+2026.03.25 11:06:16 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/repository/UserRepository.java. Using fallback presentation compiler.
+2026.03.25 11:06:16 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Album.java. Using fallback presentation compiler.
+2026.03.25 11:06:17 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Album.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:06:17 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 541
+2026.03.25 11:06:16 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Album.java. Using fallback presentation compiler.
+2026.03.25 11:06:22 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Album.java. Using fallback presentation compiler.
+2026.03.25 11:06:22 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:06:22 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:06:22 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 550
+2026.03.25 11:06:22 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:06:22 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:06:23 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:06:23 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Review.java. Using fallback presentation compiler.
+2026.03.25 11:06:23 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Review.java. Using fallback presentation compiler.
+2026.03.25 11:06:23 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Review.java. Using fallback presentation compiler.
+2026.03.25 11:06:23 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Review.java. Using fallback presentation compiler.
+2026.03.25 11:06:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/Review.java. Using fallback presentation compiler.
+2026.03.25 11:06:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/dto/LoginRequest.java. Using fallback presentation compiler.
+2026.03.25 11:06:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/dto/LoginRequest.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:06:26 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 568
+2026.03.25 11:06:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/dto/LoginRequest.java. Using fallback presentation compiler.
+2026.03.25 11:06:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/dto/LoginRequest.java. Using fallback presentation compiler.
+2026.03.25 11:06:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/dto/LoginRequest.java. Using fallback presentation compiler.
+2026.03.25 11:06:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/UserController.java. Using fallback presentation compiler.
+2026.03.25 11:06:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/UserController.java. Using fallback presentation compiler.
+2026.03.25 11:06:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/UserController.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:06:35 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 578
+2026.03.25 11:06:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/UserController.java. Using fallback presentation compiler.
+2026.03.25 11:06:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/UserController.java. Using fallback presentation compiler.
+2026.03.25 11:06:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+2026.03.25 11:06:36 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+2026.03.25 11:06:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+2026.03.25 11:06:36 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+2026.03.25 11:06:36 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+2026.03.25 11:06:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+2026.03.25 11:06:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+2026.03.25 11:06:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+2026.03.25 11:06:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:06:40 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 600
+2026.03.25 11:06:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+2026.03.25 11:06:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/AlbumController.java. Using fallback presentation compiler.
+2026.03.25 11:06:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 11:06:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:06:50 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 615
+2026.03.25 11:06:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 11:06:50 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 11:06:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/NewsController.java. Using fallback presentation compiler.
+2026.03.25 11:06:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+2026.03.25 11:06:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:06:53 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 624
+2026.03.25 11:06:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+2026.03.25 11:06:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+2026.03.25 11:07:57 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/controller/ReviewController.java. Using fallback presentation compiler.
+2026.03.25 11:16:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:16:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:16:49 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 633
+2026.03.25 11:16:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:16:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:16:49 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:16:49 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 638
+Mar. 25, 2026 11:16:49 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 637
+2026.03.25 11:16:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:16:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:16:51 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:16:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:16:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:16:55 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:16:55 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java
+2026.03.25 11:16:55 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:00 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:00 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:01 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:00 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:00 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:00 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:01 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:02 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:02 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:04 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 682
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:04 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 678
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:04 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 689
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:04 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 693
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:04 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 691
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:04 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:06 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 709
+Mar. 25, 2026 11:17:06 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 705
+Mar. 25, 2026 11:17:06 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 710
+Mar. 25, 2026 11:17:06 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 706
+2026.03.25 11:17:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:06 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 712
+2026.03.25 11:17:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:06 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 715
+2026.03.25 11:17:06 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:06 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 719
+Mar. 25, 2026 11:17:06 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 720
+Mar. 25, 2026 11:17:06 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 717
+2026.03.25 11:17:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:05 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:07 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:07 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:07 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:12 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 733
+2026.03.25 11:17:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:12 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:13 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:13 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:13 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:13 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:15 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java
+2026.03.25 11:17:15 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:24 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:26 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:27 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:27 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:27 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:27 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:28 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 765
+2026.03.25 11:17:27 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:28 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:28 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:28 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:30 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:30 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:30 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:30 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:30 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:32 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:33 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:34 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:34 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:34 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:34 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:35 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:36 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:38 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:38 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:38 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:39 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:40 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:41 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:41 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 827
+2026.03.25 11:17:41 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:41 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:41 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:42 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:41 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:42 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:42 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:42 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:44 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:44 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:44 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:44 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:45 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 845
+Mar. 25, 2026 11:17:45 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 844
+2026.03.25 11:17:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:45 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+Mar. 25, 2026 11:17:46 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 855
+2026.03.25 11:17:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:47 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:46 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:53 WARN  no build target for: /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java
+2026.03.25 11:17:53 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:17:54 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.
+2026.03.25 11:58:48 INFO  no build target found for /Users/lisplakolli/Mthree/musicapp/backend/src/main/java/musicapp/entity/News.java. Using fallback presentation compiler.

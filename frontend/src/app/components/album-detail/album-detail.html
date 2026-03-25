@@ -1,6 +1,5 @@
 <div *ngIf="album" class="detail-container">
-  <a routerLink="/albums" class="back-link">← Back to Albums</a>
-
+  <button class="back-btn" (click)="goBack()">← Back</button>
   <div class="detail-card">
     <img [src]="album.coverUrl" [alt]="album.title" class="detail-image" />
 

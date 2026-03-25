@@ -1,60 +1,97 @@
 .write-review-page {
-    padding: 30px;
-    max-width: 800px;
-    margin: 0 auto;
-  }
+  padding: 40px 32px 56px;
+  max-width: 850px;
+  margin: 0 auto;
+}
 
-  .back-link {
-    display: inline-block;
-    margin-bottom: 20px;
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
-  }
+.write-review-page h1 {
+  margin: 0 0 14px;
+  font-size: 3rem;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  color: #f8fafc;
+}
 
-  .review-card {
-    background: white;
-    border: 1px solid #ddd;
-    border-radius: 12px;
-    padding: 24px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
-    margin-top: 20px;
-  }
+.write-review-page p {
+  color: #cbd5e1;
+}
 
-  .stars {
-    font-size: 2rem;
-    margin: 12px 0 20px;
-  }
+.back-link {
+  display: inline-block;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: #cbd5e1;
+  font-weight: 600;
+}
 
-  .stars span {
-    cursor: pointer;
-    color: #bbb;
-    margin-right: 8px;
-  }
+.back-link:hover {
+  color: #a78bfa;
+}
 
-  .stars span.filled {
-    color: gold;
-  }
+.review-card {
+  background: rgba(15, 23, 42, 0.88);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 18px;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.28);
+  margin-top: 22px;
+}
 
-  textarea {
-    width: 100%;
-    box-sizing: border-box;
-    padding: 12px;
-    margin-bottom: 16px;
-    resize: vertical;
-  }
+.review-card label {
+  display: block;
+  color: #f8fafc;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
 
-  button {
-    padding: 10px 18px;
-    border: none;
-    background: black;
-    color: white;
-    border-radius: 8px;
-    cursor: pointer;
-    font-weight: bold;
-  }
+.stars {
+  font-size: 2rem;
+  margin: 12px 0 20px;
+}
 
-  .message {
-    margin-top: 12px;
-    color: #c00;
-  }
+.stars span {
+  cursor: pointer;
+  color: #475569;
+  margin-right: 8px;
+}
+
+.stars span.filled {
+  color: gold;
+}
+
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 14px;
+  margin-bottom: 16px;
+  resize: vertical;
+  min-height: 150px;
+  border-radius: 12px;
+  border: 1px solid #334155;
+  background: #0f172a;
+  color: #f8fafc;
+  font-family: inherit;
+}
+
+textarea::placeholder {
+  color: #94a3b8;
+}
+
+button {
+  padding: 12px 18px;
+  border: none;
+  background: #7c3aed;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+button:hover {
+  background: #8b5cf6;
+}
+
+.message {
+  margin-top: 12px;
+  color: #fca5a5;
+}

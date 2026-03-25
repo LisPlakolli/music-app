@@ -1,20 +1,41 @@
-<h1>Welcome to AlbumClash!</h1>
+<section class="hero">
+  <h1>AlbumClash</h1>
+  <p class="hero-subtext">
+    Track albums, keep up with music news, and unleash your inner critic!
+  </p>
+</section>
 
-<h2>Albums of the Week</h2>
+<section class="content-section">
+  <h2>Albums of the Week</h2>
 
-<div class="album-grid">
-  <a
-    *ngFor="let album of featuredAlbums"
-    class="album-card"
-    [routerLink]="['/albums', album.id]"
-  >
-    <img [src]="album.coverUrl" [alt]="album.title" class="album-image" />
-    <h3>{{ album.title }}</h3>
-    <p><strong>Artist:</strong> {{ album.artist }}</p>
-    <p><strong>Genre:</strong> {{ album.genre }}</p>
-    <p><strong>Year:</strong> {{ album.releaseYear }}</p>
-  </a>
-</div>
+  <div class="album-grid">
+    <a
+      *ngFor="let album of featuredAlbums"
+      class="album-card"
+      [routerLink]="['/albums', album.id]"
+    >
+      <img [src]="album.coverUrl" [alt]="album.title" class="album-image" />
+      <h3>{{ album.title }}</h3>
+      <p><strong>Artist:</strong> {{ album.artist }}</p>
+      <p><strong>Genre:</strong> {{ album.genre }}</p>
+      <p><strong>Year:</strong> {{ album.releaseYear }}</p>
+    </a>
+  </div>
+</section>
 
-<h2>Music News</h2>
-<p>New album releases coming soon...</p>
+<section class="content-section">
+  <h2>Music News</h2>
+
+  <div class="news-grid">
+    <div class="news-card" *ngFor="let article of featuredNews">
+      <img [src]="article.imageUrl" class="news-image" />
+      <div class="news-body">
+        <h3>{{ article.title }}</h3>
+        <p>{{ article.content }}</p>
+        <a [href]="article.link" target="_blank" class="read-btn">
+          Read Article →
+        </a>
+      </div>
+    </div>
+  </div>
+</section>

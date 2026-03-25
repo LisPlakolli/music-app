@@ -7,6 +7,7 @@ import { User } from '../../models/user';
 import { AlbumService } from '../../services/album.service';
 import { ReviewService } from '../../services/review.service';
 import { UserService } from '../../services/user.service';
+import { Location } from '@angular/common';
 
 @Component({
   selector: 'app-album-detail',
@@ -26,7 +27,8 @@ export class AlbumDetail implements OnInit {
     private albumService: AlbumService,
     private reviewService: ReviewService,
     private userService: UserService,
-    private cdr: ChangeDetectorRef
+    private cdr: ChangeDetectorRef,
+    private location: Location
   ) {}
 
   ngOnInit(): void {
@@ -54,6 +56,10 @@ export class AlbumDetail implements OnInit {
       }
     });
   }
+
+  goBack(): void {
+  this.location.back();
+}
 
   calculateAverageRating(reviews: Review[]): number {
     if (reviews.length === 0) return 0;
