@@ -11,6 +11,9 @@
   padding: 16px;
   background: white;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  text-decoration: none;
+  color: black;
+  display: block;
 }
 
 .album-image {
@@ -19,4 +22,9 @@
   object-fit: cover;
   border-radius: 8px;
   margin-bottom: 12px;
+}
+
+.album-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
 }

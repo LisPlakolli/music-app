@@ -1,1 +1,42 @@
-<p>album-detail works!</p>
+<div *ngIf="album" class="detail-container">
+  <a routerLink="/albums" class="back-link">← Back to Albums</a>
+
+  <div class="detail-card">
+    <img [src]="album.coverUrl" [alt]="album.title" class="detail-image" />
+
+    <div class="detail-info">
+      <h1>{{ album.title }}</h1>
+      <p><strong>Artist:</strong> {{ album.artist }}</p>
+      <p><strong>Genre:</strong> {{ album.genre }}</p>
+      <p><strong>Year:</strong> {{ album.releaseYear }}</p>
+      <p><strong>Average Rating:</strong> {{ averageRating }}/5</p>
+      <p><strong>Total Reviews:</strong> {{ reviews.length }}</p>
+
+      <a
+        *ngIf="currentUser"
+        class="review-btn"
+        [routerLink]="['/albums', album.id, 'write-review']"
+      >
+        Write a Review
+      </a>
+
+      <p *ngIf="!currentUser" class="signin-note">
+        Sign in to write a review.
+      </p>
+    </div>
+  </div>
+
+  <div class="reviews-section">
+    <h2>Reviews</h2>
+
+    <div *ngIf="reviews.length === 0">
+      <p>No reviews yet.</p>
+    </div>
+
+    <div *ngFor="let review of reviews" class="review-card">
+      <p><strong>{{ review.user.username }}</strong> — {{ review.rating }}/5</p>
+      <p>{{ review.reviewText }}</p>
+      <small>{{ review.createdAt }}</small>
+    </div>
+  </div>
+</div>

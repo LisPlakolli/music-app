@@ -1,15 +1,19 @@
-<h1>Welcome to MusicApp</h1>
+<h1>Welcome to AlbumClash!</h1>
 
-<h2>Featured Albums</h2>
+<h2>Albums of the Week</h2>
 
 <div class="album-grid">
-  <div *ngFor="let album of featuredAlbums" class="album-card">
+  <a
+    *ngFor="let album of featuredAlbums"
+    class="album-card"
+    [routerLink]="['/albums', album.id]"
+  >
     <img [src]="album.coverUrl" [alt]="album.title" class="album-image" />
     <h3>{{ album.title }}</h3>
     <p><strong>Artist:</strong> {{ album.artist }}</p>
     <p><strong>Genre:</strong> {{ album.genre }}</p>
     <p><strong>Year:</strong> {{ album.releaseYear }}</p>
-  </div>
+  </a>
 </div>
 
 <h2>Music News</h2>

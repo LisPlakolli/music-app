@@ -1,9 +1,11 @@
 package musicapp.entity;
 
 import jakarta.persistence.*;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @Entity
 @Table(name = "albums")
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 public class Album {
 
     @Id

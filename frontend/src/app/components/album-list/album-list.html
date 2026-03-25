@@ -1,11 +1,53 @@
 <h1 class="page-title">Album Collection</h1>
 
-<div class="album-grid">
-  <div *ngFor="let album of albums" class="album-card">
-    <img [src]="album.coverUrl" [alt]="album.title" class="album-image" />
-    <h2>{{ album.title }}</h2>
-    <p><strong>Artist:</strong> {{ album.artist }}</p>
-    <p><strong>Genre:</strong> {{ album.genre }}</p>
-    <p><strong>Year:</strong> {{ album.releaseYear }}</p>
+<div class="carousel-wrapper" *ngIf="slides.length > 0">
+  <button
+    class="carousel-arrow left"
+    (click)="prevSlide()"
+    [disabled]="currentSlide === 0"
+  >
+    ‹
+  </button>
+
+  <div class="carousel-window">
+    <div
+      class="carousel-track"
+      [style.transform]="'translateX(-' + (currentSlide * 100) + '%)'"
+    >
+      <div class="carousel-slide" *ngFor="let slide of slides">
+        <div class="slide-row">
+          <a
+            *ngFor="let album of slide"
+            class="album-card"
+            [routerLink]="['/albums', album.id]"
+          >
+            <img [src]="album.coverUrl" [alt]="album.title" class="album-image" />
+            <div class="album-body">
+              <h2>{{ album.title }}</h2>
+              <p><strong>Artist:</strong> {{ album.artist }}</p>
+              <p><strong>Genre:</strong> {{ album.genre }}</p>
+              <p><strong>Year:</strong> {{ album.releaseYear }}</p>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
   </div>
+
+  <button
+    class="carousel-arrow right"
+    (click)="nextSlide()"
+    [disabled]="currentSlide === slides.length - 1"
+  >
+    ›
+  </button>
+</div>
+
+<div class="carousel-dots" *ngIf="slides.length > 1">
+  <button
+    *ngFor="let slide of slides; let i = index"
+    class="dot"
+    [class.active]="i === currentSlide"
+    (click)="goToSlide(i)"
+  ></button>
 </div>

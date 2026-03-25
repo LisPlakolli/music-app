@@ -1,9 +1,20 @@
 <nav class="navbar">
-  <a routerLink="/">Home</a>
-  <a routerLink="/albums">Albums</a>
-  <a routerLink="/reviews">Reviews</a>
-  <a routerLink="/write-review">Write Review</a>
-  <a routerLink="/login">Login</a>
+  <div class="nav-left">
+    <a routerLink="/">Home</a>
+    <a routerLink="/albums">Albums</a>
+    <a routerLink="/reviews">Reviews</a>
+  </div>
+
+  <div class="nav-right" *ngIf="currentUser; else loggedOut">
+    <span class="welcome-text">Signed in as {{ currentUser.username }}</span>
+    <button class="logout-btn" (click)="logout()">Logout</button>
+  </div>
+
+  <ng-template #loggedOut>
+    <div class="nav-right">
+      <a routerLink="/login">Login</a>
+    </div>
+  </ng-template>
 </nav>
 
 <router-outlet></router-outlet>

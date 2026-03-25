@@ -10,7 +10,7 @@ export const routes: Routes = [
   { path: '', component: Home },
   { path: 'albums', component: AlbumListComponent },
   { path: 'albums/:id', component: AlbumDetail },
+  { path: 'albums/:id/write-review', component: WriteReview },
   { path: 'login', component: Login },
-  { path: 'reviews', component: Reviews },
-  { path: 'write-review', component: WriteReview }
+  { path: 'reviews', component: Reviews }
 ];

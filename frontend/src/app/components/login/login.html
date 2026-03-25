@@ -1,7 +1,22 @@
-<h1>Login</h1>
+<div class="login-page">
+  <h1>Login</h1>
 
-<form>
-  <input type="text" placeholder="Username" />
-  <input type="password" placeholder="Password" />
-  <button type="submit">Login</button>
-</form>
+  <div class="auth-grid">
+    <div class="auth-card">
+      <h2>Sign In</h2>
+      <input [(ngModel)]="loginUsername" type="text" placeholder="Username" />
+      <input [(ngModel)]="loginPassword" type="password" placeholder="Password" />
+      <button (click)="onLogin()">Login</button>
+    </div>
+
+    <div class="auth-card">
+      <h2>Create Account</h2>
+      <input [(ngModel)]="registerUsername" type="text" placeholder="Username" />
+      <input [(ngModel)]="registerEmail" type="email" placeholder="Email" />
+      <input [(ngModel)]="registerPassword" type="password" placeholder="Password" />
+      <button (click)="onRegister()">Create Account</button>
+    </div>
+  </div>
+
+  <p class="message">{{ message }}</p>
+</div>

@@ -1,0 +1,36 @@
+.login-page {
+  padding: 30px;
+}
+
+.auth-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  margin-top: 20px;
+}
+
+.auth-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.auth-card input {
+  display: block;
+  width: 100%;
+  margin-bottom: 12px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.auth-card button {
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.message {
+  margin-top: 20px;
+  font-weight: bold;
+}

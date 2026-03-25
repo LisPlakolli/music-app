@@ -1,12 +1,35 @@
 .navbar {
   display: flex;
-  gap: 20px;
-  padding: 15px;
+  justify-content: space-between;
+  align-items: center;
   background: black;
+  padding: 16px 24px;
+}
+
+.nav-left,
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 22px;
 }
 
 .navbar a {
   color: white;
   text-decoration: none;
+  font-weight: bold;
+}
+
+.welcome-text {
+  color: white;
+  font-weight: bold;
+}
+
+.logout-btn {
+  background: white;
+  color: black;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 14px;
+  cursor: pointer;
   font-weight: bold;
 }

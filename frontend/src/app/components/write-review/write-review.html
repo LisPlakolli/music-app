@@ -1,7 +1,29 @@
-<h1>Write a Review</h1>
+<div class="write-review-page" *ngIf="album">
+  <a [routerLink]="['/albums', album.id]" class="back-link">← Back to Album</a>
 
-<form>
-  <input type="text" placeholder="Album Name" />
-  <textarea placeholder="Your review..."></textarea>
-  <button type="submit">Submit</button>
-</form>
+  <h1>Write a Review for {{ album.title }}</h1>
+  <p><strong>Artist:</strong> {{ album.artist }}</p>
+
+  <div class="review-card">
+    <label>Rating</label>
+    <div class="stars">
+      <span
+        *ngFor="let star of [1,2,3,4,5]"
+        (click)="setRating(star)"
+        [class.filled]="star <= rating"
+      >
+        ★
+      </span>
+    </div>
+
+    <textarea
+      [(ngModel)]="reviewText"
+      placeholder="Write your review here..."
+      rows="6"
+    ></textarea>
+
+    <button (click)="submitReview()">Submit Review</button>
+
+    <p class="message">{{ message }}</p>
+  </div>
+</div>
